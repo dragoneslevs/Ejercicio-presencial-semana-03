@@ -1,0 +1,72 @@
+div{
+			
+
+
+
+
+}
+		
+#bandera-espana{
+
+			height: 200px;
+			width: 400px;
+			
+			
+		}
+		#rojo1{
+   		height: 60px;
+   		background-color: red;
+
+		}
+		#amarillo{
+		height: 70px;
+		background-color: gold;
+
+		}
+		#rojo2{
+
+			height: 60px;
+			background-color: red;
+		}
+
+
+
+
+
+.bandera-danesa{
+			height: 200px;
+			width: 400px;
+			background-color:white;
+      		border-style:solid;
+
+}
+#izq1{
+
+	width: 100px;
+	height: 90px;
+	float: left;
+	background-color: red;
+}
+
+
+
+
+#izq2{
+
+width: 100px;
+height: 90px;
+background-color: blue;
+float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+			
